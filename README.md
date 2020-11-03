@@ -1,2 +1,2 @@
-# Headphones-test
-stimuli and analysis scripts
+# Headphone tests
+Analysis scripts and stimuli
