@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1937 894" style="enable-background:new 0 0 1937 894;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#808080;}
+	.st1{fill:#4D4E4E;}
+	.st2{fill:#333333;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#B4B4B4;}
+	.st5{font-family:'Calibri-Italic';}
+	.st6{font-size:34px;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:21.7088px;}
+	.st9{font-size:26.184px;}
+	.st10{fill:none;stroke:#ED1C24;stroke-width:4;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#0B6EC7;stroke-width:4;stroke-miterlimit:10;}
+	.st13{fill:#662D91;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#D07F35;stroke-width:4;stroke-miterlimit:10;}
+	.st15{fill:#ED1C24;}
+	.st16{fill:#FF0000;}
+	.st17{font-family:'MyriadPro-Bold';}
+	.st18{font-size:70px;}
+	.st19{fill:#CCCCCC;}
+	.st20{fill:#4D4D4D;}
+	.st21{fill:none;stroke:#8E7966;stroke-width:4;stroke-miterlimit:10;}
+	.st22{fill:none;stroke:#A064FF;stroke-width:4;stroke-miterlimit:10;}
+	.st23{font-family:'Calibri';}
+	.st24{font-size:23px;}
+</style>
+<g>
+	<path class="st0" d="M820.2,471c0-27.1-10.7-52.9-26-55.9c-17.8-3.5-32.8,22-32.8,49.1l-4.2,72.7c0,0,20,22,62.9,5.4L820.2,471z"/>
+	<g>
+		<ellipse class="st1" cx="789.7" cy="464" rx="19.2" ry="20.3"/>
+		<ellipse class="st2" cx="789.6" cy="463.6" rx="13.6" ry="13.8"/>
+	</g>
+	<g>
+		<ellipse class="st1" cx="789.7" cy="512.3" rx="19.2" ry="20.3"/>
+		<ellipse class="st2" cx="789.6" cy="511.8" rx="13.6" ry="13.8"/>
+	</g>
+</g>
+<g>
+	<rect x="81.5" y="385.5" class="st3" width="197" height="165"/>
+	<path class="st4" d="M275,389v158H85V389H275 M282,382H78v172h204V382L282,382z"/>
+</g>
+<g>
+	<rect x="713.5" y="385.5" class="st3" width="197" height="165"/>
+	<path class="st4" d="M907,389v158H717V389H907 M914,382H710v172h204V382L914,382z"/>
+</g>
+<g>
+	<rect x="1648.5" y="383.5" class="st3" width="197" height="165"/>
+	<path class="st4" d="M1842,387v158h-190V387H1842 M1849,380h-204v172h204V380L1849,380z"/>
+</g>
+<text transform="matrix(1 0 0 1 1677.0825 348.6665)" class="st5 st6">Right noise</text>
+<text transform="matrix(1 0 0 1 1707.0596 538.5723)" class="st7 st8">frequency</text>
+<text transform="matrix(1 0 0 1 1707.9312 424.4541)" class="st7 st9">Φ = 180°</text>
+<polyline class="st10" points="1684,512 1745,512 1745,441 1756,441 1756,512 1813.5,512.2 "/>
+<polyline class="st11" points="1687.1,411 1687.1,515.5 1813.5,515.5 "/>
+<text transform="matrix(1 0 0 1 387.6665 98.6665)" class="st5 st6">Anti-phase (AP)  </text>
+<text transform="matrix(1 0 0 1 115.7119 348.6665)" class="st5 st6">Left tone </text>
+<text transform="matrix(1 0 0 1 731.062 348.6665)" class="st5 st6">Right tone </text>
+<text transform="matrix(1 0 0 1 1286.7422 98.6665)" class="st5 st6">Huggins pitch (HP)</text>
+<path class="st12" d="M258.3,451.8c0,0-2.8,40.3-19.9,40.3S218,451.8,218,451.8v1.2c0,0-2.8-40.3-19.9-40.3S177.6,453,177.6,453
+	v-1.2c0,0-2.8,40.3-19.9,40.3s-20.4-40.3-20.4-40.3v1.2c0,0-2.8-40.3-19.9-40.3S97,453,97,453"/>
+<polyline class="st11" points="97.1,400 97.1,512.3 265.1,512.3 "/>
+<line class="st13" x1="177.7" y1="451.5" x2="177.7" y2="512.3"/>
+<text transform="matrix(1 0 0 1 146.9312 538.4541)" class="st7 st9">Φ = 0°</text>
+<g>
+	<path class="st14" d="M889.9,452.1c0,0-2.8-39.1-19.3-39.1c-16.5,0-19.8,39.1-19.8,39.1v-1.2c0,0-2.8,39.1-19.3,39.1
+		c-16.5,0-19.8-39.1-19.8-39.1v1.2c0,0-2.8-39.1-19.3-39.1s-19.8,39.1-19.8,39.1v-1.2c0,0-2.8,39.1-19.3,39.1
+		c-16.5,0-19.8-39.1-19.8-39.1"/>
+	<polyline class="st11" points="731.1,400 731.1,512.3 899.1,512.3 	"/>
+	<line class="st13" x1="811.7" y1="451.5" x2="811.7" y2="512.3"/>
+	<text transform="matrix(1 0 0 1 779.9312 537.4541)" class="st7 st9">Φ = 180°</text>
+</g>
+<g>
+	<g>
+		<rect x="1001.5" y="387.5" class="st3" width="197" height="165"/>
+		<path class="st4" d="M1195,391v158h-190V391H1195 M1202,384H998v172h204V384L1202,384z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 1035.7324 348.6665)" class="st5 st6">Left noise</text>
+	<text transform="matrix(4.060000e-03 -1 1 4.060000e-03 1031.6854 489.0083)" class="st15 st7 st8">phase</text>
+	<line class="st10" x1="1041.1" y1="509.3" x2="1165" y2="509.2"/>
+	<text transform="matrix(1 0 0 1 1060.0596 536.5723)" class="st7 st8">frequency</text>
+	<polyline class="st11" points="1040.1,409 1040.1,513.5 1166.5,513.5 	"/>
+</g>
+<text transform="matrix(4.060000e-03 -1 1 4.060000e-03 1677.6854 488.0083)" class="st16 st7 st8">phase</text>
+<text transform="matrix(1 0 0 1 53.0454 99)" class="st17 st18">a</text>
+<text transform="matrix(1 0 0 1 973.0454 99)" class="st17 st18">b</text>
+<g>
+	<g>
+		<circle class="st19" cx="495.6" cy="333.6" r="141.9"/>
+	</g>
+	<path class="st19" d="M632.8,299.4c0,0,24.4-37.6,32.3,5.4s-59,84.7-59,84.7L632.8,299.4z"/>
+	<path class="st19" d="M360.2,299.4c0,0-24.4-37.6-32.3,5.4s59,84.7,59,84.7L360.2,299.4z"/>
+</g>
+<g>
+	<circle class="st19" cx="497.9" cy="686.4" r="136.6"/>
+</g>
+<path class="st20" d="M657.4,663.5c0-88.1-71.4-159.5-159.5-159.5s-159.5,71.4-159.5,159.5l21.1-0.6c0-76.1,61.7-137.8,137.8-137.8
+	s137.8,61.7,137.8,137.8L657.4,663.5z"/>
+<path class="st20" d="M361.4,749.6c-38,0-68.8-30.8-68.8-68.8c0-38,30.8-68.8,68.8-68.8V749.6z"/>
+<path class="st20" d="M634.5,749.6c38,0,68.8-30.8,68.8-68.8c0-38-30.8-68.8-68.8-68.8V749.6z"/>
+<g>
+	<rect x="399.5" y="251.5" class="st3" width="197" height="165"/>
+	<path class="st4" d="M593,255v158H403V255H593 M600,248H396v172h204V248L600,248z"/>
+</g>
+<path class="st21" d="M579.3,323.2c0,0-2.8,13.8-19.9,13.8S539,323.2,539,323.2V323c0,0-2.8-13-19.9-13c-17,0-20.4,13-20.4,13v0.2
+	c0,0-2.8,13.8-19.9,13.8c-17,0-20.4-13.8-20.4-13.8V323c0,0-2.8-13-19.9-13c-17,0-20.4,13.8-20.4,13.8"/>
+<polyline class="st11" points="416.1,267 416.1,379.3 584.1,379.3 "/>
+<g>
+	<rect x="399.5" y="604.5" class="st3" width="197" height="165"/>
+	<path class="st4" d="M593,608v158H403V608H593 M600,601H396v172h204V601L600,601z"/>
+</g>
+<polyline class="st11" points="416.1,620 416.1,732.3 584.1,732.3 "/>
+<path class="st21" d="M580.3,678.8c0,0-2.8,40.3-19.9,40.3S540,678.8,540,678.8v1.2c0,0-2.8-40.3-19.9-40.3
+	c-17,0-20.4,40.3-20.4,40.3v-1.2c0,0-2.8,40.3-19.9,40.3c-17,0-20.4-40.3-20.4-40.3v1.2c0,0-2.8-40.3-19.9-40.3
+	c-17,0-20.4,40.3-20.4,40.3"/>
+<g>
+	<g>
+		<circle class="st19" cx="1425.6" cy="338.6" r="141.9"/>
+	</g>
+	<path class="st19" d="M1562.8,304.4c0,0,24.4-37.6,32.3,5.4s-59,84.7-59,84.7L1562.8,304.4z"/>
+	<path class="st19" d="M1290.2,304.4c0,0-24.4-37.6-32.3,5.4c-7.9,43.1,59,84.7,59,84.7L1290.2,304.4z"/>
+</g>
+<g>
+	<circle class="st19" cx="1427.9" cy="691.4" r="136.6"/>
+</g>
+<path class="st20" d="M1587.4,668.5c0-88.1-71.4-159.5-159.5-159.5c-88.1,0-159.5,71.4-159.5,159.5l21.1-0.6
+	c0-76.1,61.7-137.8,137.8-137.8s137.8,61.7,137.8,137.8L1587.4,668.5z"/>
+<path class="st20" d="M1291.4,754.6c-38,0-68.8-30.8-68.8-68.8c0-38,30.8-68.8,68.8-68.8V754.6z"/>
+<path class="st20" d="M1564.5,754.6c38,0,68.8-30.8,68.8-68.8c0-38-30.8-68.8-68.8-68.8V754.6z"/>
+<g>
+	<rect x="1329.5" y="256.5" class="st3" width="197" height="165"/>
+	<path class="st4" d="M1523,260v158h-190V260H1523 M1530,253h-204v172h204V253L1530,253z"/>
+</g>
+<polyline class="st11" points="1346.1,272 1346.1,384.3 1514.1,384.3 "/>
+<g>
+	<rect x="1329.5" y="609.5" class="st3" width="197" height="165"/>
+	<path class="st4" d="M1523,613v158h-190V613H1523 M1530,606h-204v172h204V606L1530,606z"/>
+</g>
+<polyline class="st11" points="1346.1,625 1346.1,737.3 1514.1,737.3 "/>
+<polyline class="st22" points="1349,734 1424,734 1424,663 1435,663 1435,734 1514.5,734.2 "/>
+<text transform="matrix(1 0 0 1 1384.0596 759.5723)" class="st7 st8">frequency</text>
+<text transform="matrix(1 0 0 1 1364.9312 648.4541)" class="st7 st9">pitch percept</text>
+<polyline class="st22" points="1348,380 1423,380 1434,380 1513.5,380.2 "/>
+<text transform="matrix(1 0 0 1 1380.9497 316.4541)"><tspan x="0" y="0" class="st7 st9">no pitch </tspan><tspan x="5.5" y="31.4" class="st7 st9">percept</tspan></text>
+<text transform="matrix(1 0 0 1 1385.0596 406.5723)" class="st7 st8">frequency</text>
+<text transform="matrix(1 0 0 1 406.7207 137.6665)" class="st23 st24">Woods et al. (2017)</text>
+<path class="st20" d="M343.6,264h-53.5c-6.6,0-12-5.4-12-12v-88c0-6.6,5.4-12,12-12h53.5c6.6,0,12,5.4,12,12v88
+	C355.6,258.6,350.2,264,343.6,264z"/>
+<g>
+	<circle class="st3" cx="316.8" cy="172.4" r="6.5"/>
+</g>
+<g>
+	<circle class="st3" cx="316.8" cy="224" r="30"/>
+	<circle class="st20" cx="316.8" cy="224" r="6.5"/>
+</g>
+<path class="st20" d="M699.6,264h-53.5c-6.6,0-12-5.4-12-12v-88c0-6.6,5.4-12,12-12h53.5c6.6,0,12,5.4,12,12v88
+	C711.6,258.6,706.2,264,699.6,264z"/>
+<g>
+	<circle class="st3" cx="672.8" cy="172.4" r="6.5"/>
+</g>
+<g>
+	<circle class="st3" cx="672.8" cy="224" r="30"/>
+	<circle class="st20" cx="672.8" cy="224" r="6.5"/>
+</g>
+<path class="st20" d="M1272.6,264h-53.5c-6.6,0-12-5.4-12-12v-88c0-6.6,5.4-12,12-12h53.5c6.6,0,12,5.4,12,12v88
+	C1284.6,258.6,1279.2,264,1272.6,264z"/>
+<g>
+	<circle class="st3" cx="1245.8" cy="172.4" r="6.5"/>
+</g>
+<g>
+	<circle class="st3" cx="1245.8" cy="224" r="30"/>
+	<circle class="st20" cx="1245.8" cy="224" r="6.5"/>
+</g>
+<path class="st20" d="M1628.6,264h-53.5c-6.6,0-12-5.4-12-12v-88c0-6.6,5.4-12,12-12h53.5c6.6,0,12,5.4,12,12v88
+	C1640.6,258.6,1635.2,264,1628.6,264z"/>
+<g>
+	<circle class="st3" cx="1601.8" cy="172.4" r="6.5"/>
+</g>
+<g>
+	<circle class="st3" cx="1601.8" cy="224" r="30"/>
+	<circle class="st20" cx="1601.8" cy="224" r="6.5"/>
+</g>
+</svg>
